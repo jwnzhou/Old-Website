@@ -29,7 +29,7 @@ twitter_username: jwnzhou
 github_username:  jwnzhou
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jwnzhou/jekyll-theme-minimal-resume
 plugins:
   - jekyll-feed
 
